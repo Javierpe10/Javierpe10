@@ -27,3 +27,8 @@ Data Science, Machine Learning & AI Engineering, Ironhack Madrid (January to Jul
 ## What I'm focused on
 
 Building and shipping AI agents and workflow automations, and growing from junior to senior data science and AI engineering roles. Open to Data Science and AI Engineering opportunities.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/javier-pe%C3%B1aloza-tallia-74276b73/)
+- [PDFlash](https://pdflash.org)
